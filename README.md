@@ -1,6 +1,6 @@
 # Todo-CRUDop
 
-RUD Operations Explained
+CRUD Operations Explained
 
 CRUD stands for Create, Read, Update, and Delete—the four basic operations of persistent storage in databases and APIs.
 
